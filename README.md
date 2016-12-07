@@ -32,9 +32,9 @@ This site was built using [GitHub](https://github.com/).
 - GOLANG
 - Python
 
-1. Programming
-2. Design
-3. Database
+1. Programming (C++, C#, ...)
+2. Design (GIMP, Inkscape, Blender, ...)
+3. Database (MySQL, PostgreSQL, SQLite, MSSQL, ...)
 
 - [x] Finish my changes
 - [ ] Push my commits to GitHub
